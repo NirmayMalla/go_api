@@ -53,7 +53,7 @@ Request:
 
 ```json
 {
-  "name": "Nirmay",
+  "name": "John Doe",
   "dob": "2002-12-14"
 }
 ```
@@ -63,7 +63,7 @@ Response:
 ```json
 {
   "id": 1,
-  "name": "Nirmay",
+  "name": "John Doe",
   "dob": "2002-12-14"
 }
 ```
@@ -80,7 +80,7 @@ Response:
 [
   {
     "id": 1,
-    "name": "Nirmay",
+    "name": "John Doe",
     "dob": "2002-12-14",
     "age": 23
   }
@@ -103,7 +103,7 @@ Request:
 
 ```json
 {
-  "name": "Updated Name",
+  "name": "John Doe Updated",
   "dob": "1999-04-03"
 }
 ```
